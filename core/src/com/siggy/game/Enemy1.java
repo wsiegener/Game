@@ -7,6 +7,6 @@ public class Enemy1 extends Enemy
 {
     public Enemy1()
     {
-        super (25, 100);
+        super (25, 100, "/Users/williamsiegener/Desktop/Java Final/Game/core/assets/LanImages/border.png");
     }
 }

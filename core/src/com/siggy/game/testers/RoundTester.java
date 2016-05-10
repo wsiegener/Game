@@ -1,4 +1,6 @@
-package com.siggy.game;
+package com.siggy.game.testers;
+
+import com.siggy.game.Round;
 
 /**
  * Created by jamescipolletti on 5/6/16.
